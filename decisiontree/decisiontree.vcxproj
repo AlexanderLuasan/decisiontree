@@ -115,6 +115,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="tixtactoegame.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tixtactoegame.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="moves.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

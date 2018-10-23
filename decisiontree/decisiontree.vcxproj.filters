@@ -28,6 +28,9 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <Text Include="moves3x3.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
     <Text Include="moves.txt">
       <Filter>Resource Files</Filter>
     </Text>
